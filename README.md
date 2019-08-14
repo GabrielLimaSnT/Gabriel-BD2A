@@ -1,5 +1,5 @@
 # Gabriel-BD2A
-Aula de DevOps B14
-Gabriel de Lima Santos
-RA 1900214
+Aula de DevOps B14<br/>
+Gabriel de Lima Santos<br/>
+RA 1900214<br/>
 
